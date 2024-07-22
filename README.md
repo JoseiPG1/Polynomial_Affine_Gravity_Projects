@@ -1,0 +1,27 @@
+# Polynomial Affine Gravity Projects
+
+The Polynomial Affine Gravity is an alternative gravitational model whose fundamental field 
+is the affine connection, instead of the metric tensor. This idea mimics the standarnd model
+in particle physics, where the gravitational interaction is mediated by a gauge field. In this 
+repository I am keeping all the projects related to this affine model gravity
+
+List of projects
+- [X] Cosmological Solutions in Polynomial Affine Gravity with Torsion.
+- [ ] Coupling a scalar field to Polynomial Affine Gravity: laying the groundwork for inflationary models.
+- [ ] 10 year anniversary of Polynomial Affine Gravity.
+- [ ] Coupling a scalar field with non vanishing torsion to Polynomial Affine Gravity
+- [ ] Coupling an affine energy-momentum tensor to Polynomial Affine Gravity. 
+
+## Cosmological Solutions in Polynomial Affine Gravity with Torsion
+
+This is the structure of the paper
+- [X] Introduction
+- [X] Polynomial Affine Gravity
+- [X] Cosmological solutions
+- [X] Analysis of the solutions:  
+  - [X] Emergent metric
+  - [X] Special cases  
+- [X] Final remarks
+- [X] Appendix A: Dimensional Analysis
+
+      
