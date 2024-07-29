@@ -46,6 +46,10 @@ This is the structure of the paper
   - [ ] Spherically symmetric connections
   - [ ] Cosmological connections
 - [ ] Cosmological solutions in four dimensions
+  - [ ] First branch
+  - [ ] Second branch
+  - [ ] Third branch
+  - [ ] Fourth branch  
 - [ ] Cosmological (affine) perturbations
 - [ ] Perspectives of the models
 - [ ] Conclusions
