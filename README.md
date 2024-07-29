@@ -33,8 +33,8 @@ This is the structure of the paper
   - [X] Review of vacuum solutions
   - [X] Solutions coupled with the scalar field
 - [X] Discussion of results
-- [X] Appendix A: Isotropic and homogeneous parallel (0, 2)-tensors
-- [X] Appendix B: Fixing h(t) affine function 
+- [X] Appendix A: Comments on some components of the affine connection
+- [X] Appendix B: Isotropic and homogeneous parallel (0, 2)-tensors
 
 ## 10 year anniversary of Polynomial Affine Gravity.
 
