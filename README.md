@@ -7,7 +7,7 @@ repository I am keeping all the projects related to this affine model gravity
 
 List of projects
 - [X] Cosmological Solutions in Polynomial Affine Gravity with Torsion.
-- [ ] Coupling a scalar field to Polynomial Affine Gravity: laying the groundwork for inflationary models.
+- [X] Coupling a scalar field to Polynomial Affine Gravity: laying the groundwork for inflationary models.
 - [ ] 10 year anniversary of Polynomial Affine Gravity.
 - [ ] Coupling a scalar field with non vanishing torsion to Polynomial Affine Gravity
 - [ ] Coupling an affine energy-momentum tensor to Polynomial Affine Gravity. 
@@ -24,4 +24,14 @@ This is the structure of the paper
 - [X] Final remarks
 - [X] Appendix A: Dimensional Analysis
 
-      
+## Coupling a scalar field to Polynomial Affine Gravity: laying the groundwork for inflationary models.
+
+This is the structure of the paper
+- [X] Introduction
+- [X] The simplified model
+- [X] Overview of solutions:  
+  - [X] Review of vacuum solutions
+  - [X] Solutions coupled with the scalar field
+- [X] Discussion of results
+- [X] Appendix A: Isotropic and homogeneous parallel (0, 2)-tensors
+- [X] Appendix B: Fixing h(t) affine function 
