@@ -35,3 +35,17 @@ This is the structure of the paper
 - [X] Discussion of results
 - [X] Appendix A: Isotropic and homogeneous parallel (0, 2)-tensors
 - [X] Appendix B: Fixing h(t) affine function 
+
+## 10 year anniversary of Polynomial Affine Gravity.
+
+This is the structure of the paper
+- [X] Introduction
+- [ ] Purely polynomial affine gravity
+- [ ] Covariant field equations:  
+- [ ] Building ansatz for the connection
+  - [ ] Spherically symmetric connections
+  - [ ] Cosmological connections
+- [ ] Cosmological solutions in four dimensions
+- [ ] Cosmological (affine) perturbations
+- [ ] Perspectives of the models
+- [ ] Conclusions
