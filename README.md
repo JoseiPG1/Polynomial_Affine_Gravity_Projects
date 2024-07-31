@@ -39,7 +39,7 @@ This is the structure of the paper
 ## 10 year anniversary of Polynomial Affine Gravity.
 
 This is the structure of the paper
-- [X] Introduction
+- [ ] Introduction
 - [ ] Purely polynomial affine gravity
 - [ ] Covariant field equations:  
 - [ ] Building ansatz for the connection
