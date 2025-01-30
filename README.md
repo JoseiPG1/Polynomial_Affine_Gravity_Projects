@@ -8,7 +8,7 @@ repository I am keeping all the projects related to this affine model gravity
 List of projects
 - [X] Cosmological Solutions in Polynomial Affine Gravity with Torsion.
 - [X] Coupling a scalar field to Polynomial Affine Gravity: laying the groundwork for inflationary models.
-- [ ] 10 year anniversary of Polynomial Affine Gravity.
+- [X] 10 year anniversary of Polynomial Affine Gravity.
 - [ ] Coupling a scalar field with non vanishing torsion to Polynomial Affine Gravity
 - [ ] Coupling an affine energy-momentum tensor to Polynomial Affine Gravity. 
 
@@ -39,17 +39,17 @@ This is the structure of the paper
 ## 10 year anniversary of Polynomial Affine Gravity.
 
 This is the structure of the paper
-- [ ] Introduction
-- [ ] Purely polynomial affine gravity
-- [ ] Covariant field equations:  
-- [ ] Building ansatz for the connection
-  - [ ] Spherically symmetric connections
-  - [ ] Cosmological connections
-- [ ] Cosmological solutions in four dimensions
-  - [ ] First branch
-  - [ ] Second branch
-  - [ ] Third branch
-  - [ ] Fourth branch  
-- [ ] Cosmological (affine) perturbations
-- [ ] Perspectives of the models
-- [ ] Conclusions
+- [X] Introduction
+- [X] Purely polynomial affine gravity
+- [X] Covariant field equations:  
+- [X] Building ansatz for the connection
+  - [X] Spherically symmetric connections
+  - [X] Cosmological connections
+- [X] Cosmological solutions in four dimensions
+  - [X] First branch
+  - [X] Second branch
+  - [X] Third branch
+  - [X] Fourth branch  
+- [X] Cosmological (affine) perturbations
+- [X] Perspectives of the models
+- [X] Conclusions
